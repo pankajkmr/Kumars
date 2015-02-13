@@ -182,6 +182,34 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Articulate\bootstrap.min.css" />
+    <Content Include="Content\Articulate\css\colors\blue.css" />
+    <Content Include="Content\Articulate\css\colors\green.css" />
+    <Content Include="Content\Articulate\css\colors\orange.css" />
+    <Content Include="Content\Articulate\css\colors\purple.css" />
+    <Content Include="Content\Articulate\css\colors\red.css" />
+    <Content Include="Content\Articulate\css\colors\yellow.css" />
+    <Content Include="Content\Articulate\font-awesome.min.css" />
+    <Content Include="Content\Articulate\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\Articulate\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\Articulate\index.html" />
+    <Content Include="Content\Articulate\js\bootstrap.min.js" />
+    <Content Include="Content\Articulate\js\html5shiv.js" />
+    <Content Include="Content\Articulate\js\jquery-1.10.2.min.js" />
+    <Content Include="Content\Articulate\js\jquery.easypiechart.min.js" />
+    <Content Include="Content\Articulate\js\jquery.isotope.min.js" />
+    <Content Include="Content\Articulate\js\jquery.magnific-popup.min.js" />
+    <Content Include="Content\Articulate\js\jquery.nav.js" />
+    <Content Include="Content\Articulate\js\jquery.scrollTo.js" />
+    <Content Include="Content\Articulate\js\jquery.sticky.js" />
+    <Content Include="Content\Articulate\js\jquery.validate.js" />
+    <Content Include="Content\Articulate\js\jquery.vegas.min.js" />
+    <Content Include="Content\Articulate\js\main.js" />
+    <Content Include="Content\Articulate\js\modernizr-2.6.2.min.js" />
+    <Content Include="Content\Articulate\js\respond.min.js" />
+    <Content Include="Content\Articulate\js\waypoints.min.js" />
+    <Content Include="Content\Articulate\magnific-popup.css" />
+    <Content Include="Content\Articulate\main.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -190,6 +218,13 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Content\Articulate\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\Articulate\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\Articulate\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\Articulate\fonts\FontAwesome.otf" />
+    <Content Include="Content\Articulate\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\Articulate\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\Articulate\fonts\glyphicons-halflings-regular.woff" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -230,6 +265,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\Articulate\img\overlays\" />
+    <Folder Include="Content\Articulate\img\portfolio\large\" />
+    <Folder Include="Content\Articulate\img\portfolio\small\" />
+    <Folder Include="Content\Articulate\img\slider\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
