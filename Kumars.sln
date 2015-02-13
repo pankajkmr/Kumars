@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation Layer", "1.Presentation Layer", "{73222DCB-2818-49E8-887B-4F353DD60227}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Facade Layer", "2.Facade Layer", "{C84EF68A-CC48-4EF9-95D4-AB3D7CED31B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Business Layer", "3.Business Layer", "{5498B2CB-9525-4485-B9E2-6F8DCD42674F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Data Access Layer", "4.Data Access Layer", "{92EC9170-5D90-4178-BE83-DB23F9A336C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{ABB2A0C6-B257-4211-B332-06E238380554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Tests", "MVC.Tests\MVC.Tests.csproj", "{3EF9E902-3449-424A-A1B0-755BB28669F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB2A0C6-B257-4211-B332-06E238380554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB2A0C6-B257-4211-B332-06E238380554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB2A0C6-B257-4211-B332-06E238380554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB2A0C6-B257-4211-B332-06E238380554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF9E902-3449-424A-A1B0-755BB28669F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF9E902-3449-424A-A1B0-755BB28669F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF9E902-3449-424A-A1B0-755BB28669F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF9E902-3449-424A-A1B0-755BB28669F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ABB2A0C6-B257-4211-B332-06E238380554} = {73222DCB-2818-49E8-887B-4F353DD60227}
+		{3EF9E902-3449-424A-A1B0-755BB28669F6} = {73222DCB-2818-49E8-887B-4F353DD60227}
+	EndGlobalSection
+EndGlobal
